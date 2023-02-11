@@ -5,4 +5,4 @@ I created a template similar to the original site just to practice and gain expe
 ## Skills used in the project
 - html/css
 - tailwindcss
-- reacjs
+- reactjs
